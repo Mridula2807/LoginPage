@@ -24,4 +24,4 @@ The purpose of this project is to practice front-end web development concepts su
 
 ## 👩‍💻 Developed By
 
-Mridula web developer
+Mridula Web Developer
