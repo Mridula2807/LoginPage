@@ -1,0 +1,41 @@
+body{
+    padding-left:400px;
+    padding-top: 80px;
+    background-image:url('../img/img5.png');
+    background-size:cover;
+    background-repeat:no-repeat;
+    width: 300px;
+    margin: 100px auto;
+    padding:20px;
+    border: 3px solid black;
+    border-radius: 10px;
+    backdrop-filter:blur(10px);
+}
+h1{
+    padding-left:95px;
+}
+div{
+    position:relative;
+    display:inline;
+}
+.one-input{
+    border-radius:80px;
+    width:280px;
+    height:35px;
+    background-color: rgb(227, 242, 177);
+    padding-left: 20px;
+}
+i{
+    position: absolute;
+    left:265px;
+    bottom:28px;
+    transform: translateY(-50);
+    color: black;
+}
+.two-input{
+    border-radius:80px;
+    width:300px;
+    height:35px;
+    background-color: rgb(122, 186, 32);
+    text-align: center;
+}
